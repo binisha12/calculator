@@ -73,7 +73,7 @@ public class calc extends javax.swing.JFrame {
             }
         });
 
-        jButton3.setFont(new java.awt.Font("Calibri", 1, 12)); // NOI18N
+        jButton3.setFont(new java.awt.Font("Calibri", 1, 12)); 
         jButton3.setText("x^y");
         jButton3.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
